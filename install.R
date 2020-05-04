@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages(afex)
+install.packages("emmeans")
+install.packages("Hmisc")
+install.packages("rcompanion")
